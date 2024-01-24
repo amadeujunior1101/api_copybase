@@ -17,7 +17,7 @@ Este projeto utiliza:
 
 1 - clone do repositorio: 
 
-  git clone hhttps://github.com/amadeujunior1101/api_copybase
+  git clone https://github.com/amadeujunior1101/api_copybase.git
 
 2 - acesse a pasta:
 
